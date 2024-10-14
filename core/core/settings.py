@@ -45,7 +45,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'app',
     'dashboard',
-    'livereload'
 ]
 
 
